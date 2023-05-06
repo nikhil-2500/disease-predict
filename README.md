@@ -1,1 +1,1 @@
-# disease-predict
+# disease-prediction using Machine learning
